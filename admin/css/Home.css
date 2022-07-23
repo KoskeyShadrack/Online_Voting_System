@@ -1,0 +1,57 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family:"Trebuchet MS", "Myriad Pro", Arial, sans-serif;
+	font-size:14px;
+
+	background-color: #fff;
+	background:#f4f4f4 url(../images/bg.gif) repeat top left;
+	text-shadow:1px 1px 1px #fff;
+	background-position: 0 0px;
+	
+	
+}
+
+.wrapper{
+	width:1090px;
+	margin:10px auto;
+	
+	
+}
+.popup
+{
+   position: fixed;
+   width: 100%;
+   opacity: 0.9;
+   top:0px;
+   min-height:200px;
+   height:100%;
+   z-index: 100;
+   background: #FFFFFF;
+   font-size: 20px;
+   text-align: center;
+/*    display:none; */
+   
+}
+.clock{
+float:Right;
+margin-right:-10px;
+margin-top:-50px;
+font-family:century Gothic;
+}
+.date{
+float:Right;
+margin-right:-10px;
+margin-top:-20px;
+font-family:century Gothic;
+}
+
+.trans{
+background:transparent;
+color:white;
+border:none;
+font-size:17px;
+font-family:century Gothic;
+}
