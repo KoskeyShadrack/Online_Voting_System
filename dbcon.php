@@ -1,3 +1,3 @@
 <?php 
-$conn = mysqli_connect('localhost','root','','ovs'); 
+    $conn = mysqli_connect('localhost','root','','ovs'); 
 ?>
