@@ -111,11 +111,7 @@ if($count == 1 || $count1 == 1 || $count3 == 1 || $count4 == 1 || $count5 == 1){
 ?>
 </div>
 </div>
-</br>
-</br>
-</br>
-</br>
-</br>
+</br></br></br></br></br>
 
 	<?php include('footer.php')?>	
 </div>
